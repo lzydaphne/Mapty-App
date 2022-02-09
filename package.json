@@ -1,0 +1,16 @@
+{
+  "name": "geo",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir dist --public-url ./"
+  },
+  "author": "daphne",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.36.0",
+    "parcel": "^2.0.0-beta.1"
+  }
+}
