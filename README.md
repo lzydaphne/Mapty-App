@@ -1,4 +1,4 @@
 # Mapty-App
 A web app to calculate your running distance based on your location
 
-![image-20220209164326670](C:\Users\daphn\AppData\Roaming\Typora\typora-user-images\image-20220209164326670.png)
+![image](https://user-images.githubusercontent.com/52618403/153158296-37d20a3a-efd3-4c91-94dd-75fa1bbdd802.png)
